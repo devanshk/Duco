@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/pre-dexed/debug/classes-55f0aa4cebf52ed2b9033f1c1c96823232d46a73.jar" />
-    </item>
-    <item
-        jar="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jar="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/pre-dexed/debug/classes-eb2343063cfccd6b130840dc554d08029f59fedb.jar" />
+        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/classes-a4fe9a53296a30211a2aba3e6c1b9109b0d94b57.jar" />
+    </item>
+    <item
+        jar="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-53b5217abdc90f3de800c3b504e6795dfafeeeec.jar" />
     </item>
     <item
         jar="/Users/dkukreja/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-c82fcc49bd05b0c8f7d4344c779084a510ef9ff1.jar" />
+        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-c82fcc49bd05b0c8f7d4344c779084a510ef9ff1.jar" />
     </item>
     <item
-        jar="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/exploded-aar/Duco/circular_progress/unspecified/jars/classes.jar"
+        jar="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/exploded-aar/Android/circular_progress/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="a9d94491f5815b98febb8e00e1ac4e4ca54e175e">
-        <dex dex="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/pre-dexed/debug/classes-dd6e47c87b35e2c09da7b23883c5bdb0260cb876.jar" />
+        sha1="0a1f3b3cc421aeb5f264b5b4c4a62555ab122da3">
+        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/classes-9f1e18b1f51346fcbb01eb3bb21cfdb6c87cb489.jar" />
     </item>
     <item
-        jar="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jar="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/dkukreja/AndroidStudioProjects/Duco/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-9f4cdd3592d17af47b604eb73aa9faf164cc8c5b.jar" />
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/classes-4ba48aebace61f761fb75d7ff495f0b57de0c59f.jar" />
     </item>
 
 </items>
