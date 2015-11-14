@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoaderView">
+        <attr name="loaderType" format="string" />
+        <attr name="loaderFrameDelay" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomView">
+        <attr name="labelPosition" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr name="sides" format="integer"/>
+        <attr name="rotation_radius" format="float"/>
+        <attr name="rotation_speed" format="float"/>
+        <attr name="circle_size" format="integer"/>
+        <attr name="circle_color" format="color"/>
+        <attr name="acceleration" format="float"/>
+        <attr name="offset" format="float"/>
+        <attr name="resource_id" format="reference"/>
+
+    </declare-styleable>
+</resources>
