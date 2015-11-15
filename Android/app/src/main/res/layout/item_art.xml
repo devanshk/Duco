@@ -1,85 +1,147 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="300dp"
     android:layout_height="wrap_content"
-    android:background="@color/primary"
     android:layout_gravity="center"
     android:layout_marginBottom="50dp">
 
+    <!-- Main View -->
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:id="@+id/art_view"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_gravity="center"
-        android:paddingTop="6dp">
+        android:orientation="vertical"
+        android:background="@color/primary">
 
-        <TextView
-            android:id="@+id/art_title"
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Mona Lisa"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:paddingTop="6dp">
+
+            <TextView
+                android:id="@+id/art_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mona Lisa"
+                android:textColor="@android:color/white"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            </LinearLayout>
+
+        <TextView
+            android:id="@+id/art_artist_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Da Vinci"
             android:textColor="@android:color/white"
-            android:textSize="25sp"
-            android:textStyle="bold" />
+            android:textSize="10sp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/art_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="57"
+            android:textColor="@android:color/white"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/art_medium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="57"
+            android:textColor="@android:color/white"
+            android:textSize="10sp"
+            android:layout_gravity="center"/>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#d2281b"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <com.wang.avi.AVLoadingIndicatorView
+                android:id="@+id/avloadingIndicatorView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_centerInParent="true"
+                app:indicator="BallTrianglePath"
+                app:indicator_color="#ffffff"/>
+
+            <ImageView
+                android:id="@+id/art_image"
+                android:layout_width="fill_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <!-- Info View -->
+    <LinearLayout
+        android:id="@+id/info_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/primary"
+        android:layout_centerVertical="true"
+        android:visibility="invisible">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/dark_primary">
+
+            <TextView
+                android:layout_width="242dp"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:text="Info"
+                android:layout_gravity="center"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:paddingTop="20dp"
+                android:paddingBottom="7dp"
+                android:paddingLeft="25dp"/>
+
+            <ImageView
+                android:id="@+id/info_image_view"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="#00ffffff"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"/>
+
 
         </LinearLayout>
 
-    <TextView
-        android:id="@+id/art_artist_name"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Da Vinci"
-        android:textColor="@android:color/white"
-        android:textSize="10sp"
-        android:layout_gravity="center"/>
-
-    <TextView
-        android:id="@+id/art_score"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="57"
-        android:textColor="@android:color/white"
-        android:textSize="10sp"
-        android:textStyle="bold"
-        android:layout_gravity="center"/>
-
-    <TextView
-        android:id="@+id/art_medium"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="57"
-        android:textColor="@android:color/white"
-        android:textSize="10sp"
-        android:layout_gravity="center"/>
-
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="1dp"
-        android:background="#d2281b"
-        android:layout_marginTop="5dp"
-        android:layout_marginBottom="5dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"/>
-
-    <RelativeLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-
-        <com.wang.avi.AVLoadingIndicatorView
-            android:id="@+id/avloadingIndicatorView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:visibility="visible"
-            android:layout_centerInParent="true"
-            app:indicator="BallTrianglePath"
-            app:indicator_color="#ffffff"/>
-
-        <ImageView
-            android:id="@+id/art_image"
+        <TextView
+            android:id="@+id/info_text"
             android:layout_width="fill_parent"
-            android:layout_height="250dp"
-            android:layout_gravity="center" />
-    </RelativeLayout>
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:paddingTop="7dp"
+            android:paddingBottom="20dp"
+            android:textSize="15sp"
+            android:text="1958\n\n\n\n\n\n\n\nFilm and Music\nJapanese\nWoodcut\nVan Goh\n"/>
 
-</LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

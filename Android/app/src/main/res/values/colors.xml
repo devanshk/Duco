@@ -8,4 +8,7 @@
     <color name="dark_primary">#D32F2F</color>
     <color name="dropdown_background">#f7f7f7</color>
     <color name="light_gray">#f1f1f1</color>
+
+    <integer name="card_flip_time_full"> 500 </integer>
+    <integer name="card_flip_time_half"> 250 </integer>
 </resources>

@@ -88,7 +88,6 @@ public class LoadActivity extends AppCompatActivity {
                 String nat = p.getString("nationality");
                 String cla = p.getString("classification");
                 String wurl = p.getString("image_url");
-                try{ ti = ti.substring(0,15);} catch (Exception e){}
 
                 //Account for multiple urls
                 int nextIndex = wurl.indexOf("http",4);
@@ -98,8 +97,14 @@ public class LoadActivity extends AppCompatActivity {
                 nextIndex = wurl.indexOf("|");
                 if (nextIndex > 0) {
                     wurl = wurl.substring(0, nextIndex);
-                    System.out.println("found. new wurl = "+wurl);
                 }
+
+                if (ti.equals(""))
+                    ti = "Unknown";
+                if (nam.equals(""))
+                    nam = "Unknown";
+                if (med.equals(""))
+                    med = "Unknown";
 
                 if (!wurl.equals("")) {
                     a = new Art(ti, med, nam, cre, iD, dep, artid, nat, cla, wurl);

@@ -77,17 +77,22 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="30dp">
 
-        <Button
+        <ImageButton
+            android:id="@+id/m_btn"
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:text="M"
+            android:text="I"
             android:textColor="@android:color/white"
             android:background="@drawable/rounded_button_red"
             android:textStyle="bold"
             android:textSize="30sp"
+            android:src="@drawable/info"
+            android:scaleType="centerInside"
+            android:padding="10dp"
             android:layout_marginRight="30dp"/>
 
         <ImageButton
+            android:id="@+id/star_btn"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:src="@drawable/ic_star_white_48dp"
@@ -99,7 +104,49 @@
         android:id="@+id/frame"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        app:rotation_degrees="15"
+        app:rotation_degrees="17"
         tools:context=".MainActivity"/>
+
+    <View
+        android:visibility="visible"
+        android:id="@+id/prefs_back_shadow"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#b0000000"/>
+
+    <LinearLayout
+        android:visibility="visible"
+        android:id="@+id/prefs_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="76dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Preferences"
+            android:textColor="@android:color/white"
+            android:background="@color/dark_primary"
+            android:paddingLeft="20dp"
+            android:paddingRight="40dp"
+            android:paddingTop="15dp"
+            android:paddingBottom="5dp"
+            android:textSize="30sp"/>
+        
+        <TextView
+            android:id="@+id/prefs_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:background="@color/primary"
+            android:paddingTop="15dp"
+            android:paddingBottom="30dp"
+            android:textSize="15sp"
+            android:text="1958\nFilm and Music\nJapanese\nWoodcut\nVan Goh"/>
+
+    </LinearLayout>
 
 </RelativeLayout>

@@ -36,9 +36,16 @@ repositories {
 
 //Custom added dependencies
 dependencies {
+    //Tinder
     compile 'com.lorentzos.swipecards:library:1.0.9@aar'
+    //LoadingCircles
     compile 'com.github.jlmd:AnimatedCircleLoadingView:1.1.2@aar'
 
+    //Awesome Indeterminate Progress Indicators
     compile 'com.wang.avi:library:1.0.0'
     compile 'com.nineoldandroids:library:2.4.0'
+
+    //YoYo Animation Utils
+    compile 'com.daimajia.easing:library:1.0.1@aar'
+    compile 'com.daimajia.androidanimations:library:1.1.3@aar'
 }

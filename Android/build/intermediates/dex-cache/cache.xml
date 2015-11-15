@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/exploded-aar/com.wang.avi/library/1.0.0/jars/classes.jar"
+        jar="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="476390e81d32f9d08f9f5aab6c2b28f314a37828">
-        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/classes-3babfa28e09d6c842febb97aa3f0858c7162a752.jar" />
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/classes-f9b81616fa74e7265481d87aaf2387f5a96094ec.jar" />
     </item>
     <item
-        jar="/Users/dkukreja/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jar="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/library-2.4.0-6bcee5e9b98fd9acc0fbbd941ba6d8647d3de686.jar" />
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/dkukreja/Box Sync/Coding Projects/GitHub/Duco/Android/app/build/intermediates/pre-dexed/debug/classes-460e743563e162fe3fb458bb34ddbb126fc4857a.jar" />
     </item>
 
 </items>

@@ -27,6 +27,5 @@ public class MultiThread extends AsyncTask<Void,Integer,Void> {
     }
 
     protected void onPostExecute(Void v){
-        Log.d("WHOO", "Fully loaded the json");
     }
 }
