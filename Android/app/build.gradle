@@ -24,4 +24,21 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.0'
     compile project(':circular_progress')
+    compile files('libs/universal-image-loader-1.9.4.jar')
+    compile 'com.android.support:support-v4:23.1.0'
+}
+
+repositories {
+    maven {
+        url "http://dl.bintray.com/jlmd/maven"
+    }
+}
+
+//Custom added dependencies
+dependencies {
+    compile 'com.lorentzos.swipecards:library:1.0.9@aar'
+    compile 'com.github.jlmd:AnimatedCircleLoadingView:1.1.2@aar'
+
+    compile 'com.wang.avi:library:1.0.0'
+    compile 'com.nineoldandroids:library:2.4.0'
 }
