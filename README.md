@@ -8,3 +8,5 @@ The user swipes left or right based on a snap judgement on whether they like a p
 Here's an example of a user who is an architecture-buff using the app.
 
 ![ArchiSample](https://github.com/devanshk/Duco/blob/master/Designs/rec_1_convert.gif?raw=true)
+
+You'll notice the artwork focuses towards buildings as they keep swiping right.
