@@ -1,4 +1,4 @@
-![Duco](https://github.com/devanshk/Duco/blob/master/Designs/readme_banner_duco.png?raw=true)
+![Duco](https://github.com/devanshk/Duco/blob/master/Designs/readme_duco_thin.png?raw=true)
 
 Duco is Tinder for artwork, created at the Carnegie Museum of Art's 120th Anniversary.
 
