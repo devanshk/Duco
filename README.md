@@ -2,8 +2,8 @@
 
 Duco is Tinder for artwork, created at the Carnegie Museum of Art's 120th Anniversary.
 
-##What it is
-The user swipes left or right based on a snap judgement on whether they like a piece of art. We take in a json with the museum's art data and populate our own system with it. As the user keeps swiping, our algorithm determines their preferences.
+##What it does
+Duco helps users find art they like, and museums gauge what art customers look for. The user swipes left or right based on a snap judgement on whether they like a piece of art. We take in a json with the museum's art data and populate our own system with it. As the user keeps swiping, our algorithm determines their preferences.
 
 Here's an example of an architecture-buff swiping around.
 
