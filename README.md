@@ -14,3 +14,13 @@ Here's an example of an architecture-buff swiping around.
 </p>
 
 You'll notice the artwork focuses towards buildings as they keep swiping right. In order to keep the user exposed to a diverse collection, every fifth item is a wildcard chosen for its lower rating.
+
+If a user isn't sure whether or not they like an art piece, they have easy access to more info.
+<p align="center">
+  <img src="https://github.com/devanshk/Duco/blob/master/Designs/rec_2_trim.gif?raw=true"/>
+</p>
+
+And if they want to understand their own preferences, the algorithm can show them what it's determined.
+<p align="center">
+  <img src="https://github.com/devanshk/Duco/blob/master/Designs/rec_3_trim.gif?raw=true"/>
+</p>
