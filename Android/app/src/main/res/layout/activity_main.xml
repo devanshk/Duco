@@ -146,7 +146,15 @@
             android:paddingBottom="30dp"
             android:textSize="15sp"
             android:text="1958\nFilm and Music\nJapanese\nWoodcut\nVan Goh"/>
-
     </LinearLayout>
+
+    <ImageView
+        android:id="@+id/demo_img"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/demo_pic"
+        android:scaleType="centerInside"
+        android:background="#f2453e"
+        android:visibility="gone"/>
 
 </RelativeLayout>

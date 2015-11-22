@@ -27,7 +27,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca8d426-084b-4bdf-9af4-b2b3ae42e0d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Designs/readme_tinder_plus_museum.psd" afterPath="$PROJECT_DIR$/../Designs/readme_tinder_plus_museum.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/demo_pic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,28 +75,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="195" column="148" selection-start-line="195" selection-start-column="148" selection-end-line="195" selection-end-column="148" />
+            <state vertical-scroll-proportion="0.3488372">
+              <caret line="206" column="23" selection-start-line="206" selection-start-column="23" selection-end-line="206" selection-end-column="23" />
               <folding>
-                <element signature="class#2220:2715" expanded="false" />
-                <element signature="method#onAnimationStart#0;class#2220:2715" expanded="false" />
-                <element signature="method#onAnimationCancel#0;class#2220:2715" expanded="false" />
-                <element signature="method#onAnimationRepeat#0;class#2220:2715" expanded="false" />
-                <element signature="class#2975:4977" expanded="false" />
-                <element signature="method#removeFirstObjectInAdapter#0;class#2975:4977" expanded="false" />
-                <element signature="method#onLeftCardExit#0;class#2975:4977" expanded="false" />
-                <element signature="method#onRightCardExit#0;class#2975:4977" expanded="false" />
-                <element signature="method#onAdapterAboutToEmpty#0;class#2975:4977" expanded="false" />
-                <element signature="method#onScroll#0;class#2975:4977" expanded="false" />
-                <element signature="class#5983:6646" expanded="false" />
-                <element signature="method#onAnimationStart#0;class#5983:6646" expanded="false" />
-                <element signature="method#onAnimationEnd#0;class#5983:6646" expanded="false" />
-                <element signature="method#onAnimationCancel#0;class#5983:6646" expanded="false" />
-                <element signature="method#onAnimationRepeat#0;class#5983:6646" expanded="false" />
-                <element signature="e#7798#7832#0" expanded="false" />
+                <element signature="e#1232#1243#0" expanded="true" />
+                <element signature="class#2337:2832" expanded="false" />
+                <element signature="method#onAnimationStart#0;class#2337:2832" expanded="false" />
+                <element signature="method#onAnimationCancel#0;class#2337:2832" expanded="false" />
+                <element signature="method#onAnimationRepeat#0;class#2337:2832" expanded="false" />
+                <element signature="method#removeFirstObjectInAdapter#0;class#3092:5094" expanded="false" />
+                <element signature="method#onLeftCardExit#0;class#3092:5094" expanded="false" />
+                <element signature="method#onRightCardExit#0;class#3092:5094" expanded="false" />
+                <element signature="method#onAdapterAboutToEmpty#0;class#3092:5094" expanded="false" />
+                <element signature="e#5136#5816#0" expanded="true" />
+                <element signature="e#5815#5816#0" expanded="true" />
+                <element signature="e#5859#6915#0" expanded="true" />
+                <element signature="class#6100:6763" expanded="false" />
+                <element signature="method#onAnimationStart#0;class#6100:6763" expanded="false" />
+                <element signature="method#onAnimationEnd#0;class#6100:6763" expanded="false" />
+                <element signature="method#onAnimationCancel#0;class#6100:6763" expanded="false" />
+                <element signature="method#onAnimationRepeat#0;class#6100:6763" expanded="false" />
+                <element signature="e#6914#6915#0" expanded="true" />
+                <element signature="e#7915#7949#0" expanded="false" />
                 <element signature="class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
                 <element signature="method#getView#0;class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
               </folding>
@@ -99,14 +109,14 @@
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.137931">
-              <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.62069">
+              <caret line="154" column="40" selection-start-line="154" selection-start-column="40" selection-end-line="154" selection-end-column="40" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -125,14 +135,14 @@
       </file>
       <file leaf-file-name="item_art.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_art.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.655172">
+            <state vertical-scroll-proportion="0.0">
               <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -154,10 +164,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4883721">
+            <state vertical-scroll-proportion="0.0">
               <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
@@ -2436,8 +2446,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/LoadActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_art.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/Helpers/Art.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -2479,7 +2489,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2576,6 +2588,24 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="animator" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
@@ -2650,9 +2680,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2667,14 +2695,15 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/libs/universal-image-loader-1.9.4.jar" />
     <property name="FullScreen" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="carnegieart.supplyandcode.duco" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/assets" />
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
       <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
     </key>
   </component>
@@ -2879,7 +2908,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1362" height="873" extended-state="1" />
+    <frame x="0" y="23" width="1362" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2887,7 +2916,7 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22045454" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3949802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3949802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2933,24 +2962,27 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <caret line="195" column="148" selection-start-line="195" selection-start-column="148" selection-end-line="195" selection-end-column="148" />
           <folding>
-            <element signature="class#2220:2715" expanded="false" />
-            <element signature="method#onAnimationStart#0;class#2220:2715" expanded="false" />
-            <element signature="method#onAnimationCancel#0;class#2220:2715" expanded="false" />
-            <element signature="method#onAnimationRepeat#0;class#2220:2715" expanded="false" />
-            <element signature="class#2975:4977" expanded="false" />
-            <element signature="method#removeFirstObjectInAdapter#0;class#2975:4977" expanded="false" />
-            <element signature="method#onLeftCardExit#0;class#2975:4977" expanded="false" />
-            <element signature="method#onRightCardExit#0;class#2975:4977" expanded="false" />
-            <element signature="method#onAdapterAboutToEmpty#0;class#2975:4977" expanded="false" />
-            <element signature="method#onScroll#0;class#2975:4977" expanded="false" />
-            <element signature="class#5983:6646" expanded="false" />
-            <element signature="method#onAnimationStart#0;class#5983:6646" expanded="false" />
-            <element signature="method#onAnimationEnd#0;class#5983:6646" expanded="false" />
-            <element signature="method#onAnimationCancel#0;class#5983:6646" expanded="false" />
-            <element signature="method#onAnimationRepeat#0;class#5983:6646" expanded="false" />
-            <element signature="e#7798#7832#0" expanded="false" />
+            <element signature="e#1232#1243#0" expanded="true" />
+            <element signature="class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationStart#0;class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationCancel#0;class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationRepeat#0;class#2337:2832" expanded="false" />
+            <element signature="method#removeFirstObjectInAdapter#0;class#3092:5094" expanded="false" />
+            <element signature="method#onLeftCardExit#0;class#3092:5094" expanded="false" />
+            <element signature="method#onRightCardExit#0;class#3092:5094" expanded="false" />
+            <element signature="method#onAdapterAboutToEmpty#0;class#3092:5094" expanded="false" />
+            <element signature="e#5136#5816#0" expanded="true" />
+            <element signature="e#5815#5816#0" expanded="true" />
+            <element signature="e#5859#6915#0" expanded="true" />
+            <element signature="class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationStart#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationEnd#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationCancel#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationRepeat#0;class#6100:6763" expanded="false" />
+            <element signature="e#6914#6915#0" expanded="true" />
+            <element signature="e#7915#7949#0" expanded="false" />
             <element signature="class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getView#0;class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
           </folding>
@@ -2958,14 +2990,101 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/LoadActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="55" selection-start-line="92" selection-start-column="55" selection-end-line="92" selection-end-column="55" />
+          <folding>
+            <element signature="method#loadJSONFromAsset#0;class#LoadActivity#0" expanded="false" />
+            <element signature="method#doneLoading#0;class#LoadActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_art.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/Helpers/Art.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="295" column="41" selection-start-line="295" selection-start-column="41" selection-end-line="295" selection-end-column="41" />
+          <folding>
+            <element signature="docComment;class#Art#0" expanded="false" />
+            <element signature="method#Art#0;class#Art#0" expanded="false" />
+            <element signature="method#generateArt#0;class#Art#0" expanded="false" />
+            <element signature="method#getArtById#0;class#Art#0" expanded="false" />
+            <element signature="method#getRandomArtPiece#0;class#Art#0" expanded="false" />
+            <element signature="method#getRandomBadArtPiece#0;class#Art#0" expanded="false" />
+            <element signature="method#updateScores#0;class#Art#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="e#1232#1243#0" expanded="true" />
+            <element signature="class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationStart#0;class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationCancel#0;class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationRepeat#0;class#2337:2832" expanded="false" />
+            <element signature="method#removeFirstObjectInAdapter#0;class#3092:5094" expanded="false" />
+            <element signature="method#onLeftCardExit#0;class#3092:5094" expanded="false" />
+            <element signature="method#onRightCardExit#0;class#3092:5094" expanded="false" />
+            <element signature="method#onAdapterAboutToEmpty#0;class#3092:5094" expanded="false" />
+            <element signature="e#5136#5816#0" expanded="true" />
+            <element signature="e#5815#5816#0" expanded="true" />
+            <element signature="e#5859#6915#0" expanded="true" />
+            <element signature="class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationStart#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationEnd#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationCancel#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationRepeat#0;class#6100:6763" expanded="false" />
+            <element signature="e#6914#6915#0" expanded="true" />
+            <element signature="e#7915#7949#0" expanded="false" />
+            <element signature="class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#getView#0;class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="91" column="40" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/Helpers/Art.java">
@@ -2985,14 +3104,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_load.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36585367">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/loading_bg.xml">
@@ -3067,7 +3186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3075,7 +3193,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3115,7 +3232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6185567">
           <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3123,7 +3239,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31437126">
           <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3171,14 +3286,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_art.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.655172">
+        <state vertical-scroll-proportion="0.0">
           <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/LoadActivity.java">
@@ -3188,44 +3303,6 @@
           <folding>
             <element signature="method#loadJSONFromAsset#0;class#LoadActivity#0" expanded="false" />
             <element signature="method#doneLoading#0;class#LoadActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.137931">
-          <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="195" column="148" selection-start-line="195" selection-start-column="148" selection-end-line="195" selection-end-column="148" />
-          <folding>
-            <element signature="class#2220:2715" expanded="false" />
-            <element signature="method#onAnimationStart#0;class#2220:2715" expanded="false" />
-            <element signature="method#onAnimationCancel#0;class#2220:2715" expanded="false" />
-            <element signature="method#onAnimationRepeat#0;class#2220:2715" expanded="false" />
-            <element signature="class#2975:4977" expanded="false" />
-            <element signature="method#removeFirstObjectInAdapter#0;class#2975:4977" expanded="false" />
-            <element signature="method#onLeftCardExit#0;class#2975:4977" expanded="false" />
-            <element signature="method#onRightCardExit#0;class#2975:4977" expanded="false" />
-            <element signature="method#onAdapterAboutToEmpty#0;class#2975:4977" expanded="false" />
-            <element signature="method#onScroll#0;class#2975:4977" expanded="false" />
-            <element signature="class#5983:6646" expanded="false" />
-            <element signature="method#onAnimationStart#0;class#5983:6646" expanded="false" />
-            <element signature="method#onAnimationEnd#0;class#5983:6646" expanded="false" />
-            <element signature="method#onAnimationCancel#0;class#5983:6646" expanded="false" />
-            <element signature="method#onAnimationRepeat#0;class#5983:6646" expanded="false" />
-            <element signature="e#7798#7832#0" expanded="false" />
-            <element signature="class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#getView#0;class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3248,9 +3325,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4883721">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.62069">
+          <caret line="154" column="40" selection-start-line="154" selection-start-column="40" selection-end-line="154" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/carnegieart/supplyandcode/duco/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3488372">
+          <caret line="206" column="23" selection-start-line="206" selection-start-column="23" selection-end-line="206" selection-end-column="23" />
+          <folding>
+            <element signature="e#1232#1243#0" expanded="true" />
+            <element signature="class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationStart#0;class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationCancel#0;class#2337:2832" expanded="false" />
+            <element signature="method#onAnimationRepeat#0;class#2337:2832" expanded="false" />
+            <element signature="method#removeFirstObjectInAdapter#0;class#3092:5094" expanded="false" />
+            <element signature="method#onLeftCardExit#0;class#3092:5094" expanded="false" />
+            <element signature="method#onRightCardExit#0;class#3092:5094" expanded="false" />
+            <element signature="method#onAdapterAboutToEmpty#0;class#3092:5094" expanded="false" />
+            <element signature="e#5136#5816#0" expanded="true" />
+            <element signature="e#5815#5816#0" expanded="true" />
+            <element signature="e#5859#6915#0" expanded="true" />
+            <element signature="class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationStart#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationEnd#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationCancel#0;class#6100:6763" expanded="false" />
+            <element signature="method#onAnimationRepeat#0;class#6100:6763" expanded="false" />
+            <element signature="e#6914#6915#0" expanded="true" />
+            <element signature="e#7915#7949#0" expanded="false" />
+            <element signature="class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#getView#0;class#ArtAdapter#0;class#MainActivity#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

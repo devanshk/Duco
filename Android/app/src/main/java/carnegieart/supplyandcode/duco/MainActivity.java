@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
     public static ArrayList<Art> artBuffer = new ArrayList<Art>();
     public static HashMap<Art, View> viewSet = new HashMap<Art, View>();
     int added = 0;
-    View prefsView, prefsShadow, starButton, infoButton;
+    View prefsView, prefsShadow, starButton, infoButton, rightButton, demo;
     TextView prefsTextView;
     static boolean isInfo = false;
     public static MainActivity instance;
@@ -51,6 +51,8 @@ public class MainActivity extends Activity {
         prefsTextView = (TextView)findViewById(R.id.prefs_text);
         starButton = findViewById(R.id.star_btn);
         infoButton = findViewById(R.id.m_btn);
+        rightButton = findViewById(R.id.right_arrow);
+        demo = findViewById(R.id.demo_img);
 
         YoYo.with(Techniques.FadeOut).duration(1).playOn(prefsView);
         YoYo.with(Techniques.FadeOut).duration(1).withListener(new Animator.AnimatorListener() {
@@ -207,6 +209,19 @@ public class MainActivity extends Activity {
                 }
 
                 isInfo = !isInfo;
+            }
+        });
+
+        rightButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                demo.setVisibility(View.VISIBLE);
+            }
+        });
+        demo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                demo.setVisibility(View.GONE);
             }
         });
 
